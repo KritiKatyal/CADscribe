@@ -2,6 +2,12 @@
 
 CADscribe is a project designed for seamless integration between Fusion 360 and a web-based platform for generating 3D models using AI-driven technologies.
 
+## Demo
+
+You can watch a demo of the tool in action by clicking the link below:
+
+[Watch Demo Video](https://kritikatyal.github.io/CADscribe_demo/index.html)
+
 ## Features
 - **Fusion 360 Integration**: Direct interaction with Fusion 360 to retrieve and modify models.
 - **AI Model Generation**: Automatically generate 3D models from design inputs.
@@ -52,14 +58,6 @@ CADscribe is a project designed for seamless integration between Fusion 360 and 
 
 3. Open the web application in your browser at `http://localhost:3000`.
 
-## Demo
-
-Here is a demo of the CADscribe application:
-
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/KritiKatyal/CADscribe/main/frontend/public/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Contributing
 
