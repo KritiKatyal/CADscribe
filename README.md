@@ -6,7 +6,7 @@ CADscribe is a project designed for seamless integration between Fusion 360 and 
 
 You can watch a demo of the tool in action by clicking the link below:
 
-[Watch Demo Video](https://kritikatyal.github.io/CADscribe_demo/index.html)
+[Watch Demo Video](https://cadscribe.onrender.com/)
 
 ## Features
 - **Fusion 360 Integration**: Direct interaction with Fusion 360 to retrieve and modify models.
