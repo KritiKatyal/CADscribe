@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+numpy
+trimesh
+requests
+adsk
+transformers
+torch
+shapely
